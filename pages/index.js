@@ -16,7 +16,7 @@ export default function Home() {
         <Header title="Next.js Toolbox" />
         <hr />
         <p className="description">
-              Exemplo de formulátio
+              Funcionou \o/
         </p>
         <FeedbackForm />
         <JokeBlock />
