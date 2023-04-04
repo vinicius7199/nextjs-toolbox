@@ -2,6 +2,8 @@
 
 ![Netlify + Next](https://user-images.githubusercontent.com/43764894/223561089-2b729a3d-2963-4fc1-ad9b-a8618cd3c87e.png)
 
+![Netlify Status](https://api.netlify.com/api/v1/badges/bc486883-e138-4c8f-b976-7fcd8205ff14/deploy-status)](https://app.netlify.com/sites/impacta-si/deploys)
+
 This is a [Next.js](https://nextjs.org/) v12 project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app). It is a reference on how to integrate commonly used features within Netlify for Next.js. 
 
 ## Table of Contents:
